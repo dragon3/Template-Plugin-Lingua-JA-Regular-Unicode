@@ -20,6 +20,8 @@ sub new {
 1;
 __END__
 
+=encoding utf8
+
 =head1 NAME
 
 Template::Plugin::Lingua::JA::Regular::Unicode - TT Filter Plugin for Lingua::JA::Regular::Unicode.
